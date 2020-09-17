@@ -1,0 +1,20 @@
+
+ 
+Data Sprint #6: Face Mask Detection
+
+https://dphi.tech/practice/challenge/37
+
+Can you build a model to detect mask on a face?
+
+Content
+Coronavirus has now become the talk of the town, most people in the world right now are suffering badly and every day thousands of people are dying because of COVID-19. As per WHO, face masks combined with other preventive measures such as frequent hand-washing and social distancing help slow down the spread of the coronavirus.
+
+Objective
+As you might be aware, WHO has recommended that even healthy people should wear masks when venturing out of their homes into places where it is difficult to maintain distance from other people. 
+
+Imagine a local housing community has started capturing images of individuals at the entrance/exit gates, public places in and around the housing society. With this image dataset, they want to identify whether an individual in the community has worn a mask or not. Identifying the individuals would further help them to create awareness about the importance of wearing a mask to the specific set of individuals who are not complying to it. Imagine you are leading the efforts to classify images, build a machine/deep learning model to detect face masks.
+
+
+
+Evaluation Criteria
+Submissions are evaluated using Accuracy Score.
